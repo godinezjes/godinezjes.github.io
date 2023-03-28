@@ -11,49 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A.A. in General Studies, Audio Production Certificate, City College of San Francisco, 2013
+* B.A. in Geography & Environmental Studies, UMBC, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2022 - present: Internal Tech Training Lead/Digital Equity Program Assistant Lead
+  * Enoch Pratt Free Library, Baltimore, MD	
+  * Duties included:
+   * Leads a specialized team focused on providing digital literacy skills and trainings to EPFL staff
+   * Developing a consistent training program for EPFL’s onboarding process
+   * Facilitates digital literacy trainings to a range of EPFL staff members – in-person and virtually
+   * Manages a group of EPFL staff collaborating on digital literacy skill training projects, including facilitating meetings and preparing documentation 
+   * Collaborates with internal partners to build upon existing materials
+   * Launched and developed internal digital literacy assessments and training curriculum
+   * Initiated strategic planning for EPFL’s new digital equity initiatives
+   * Developed cross network partnerships and facilitated meetings with external partners to strategize best methods ands practices to move EPFL forward on their digital equity goals
+   * Transitioned a team of 4 to a new department – managed and distributed new workload and tasks, coordinated meetings with new supervisors, and facilitated team meetings
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Dec 2019 - Dec 2022: Outreach Program Assistant Lead
+  * Enoch Pratt Free Library, Baltimore, MD
+  * Duties included:
+   * Managed a team of four Outreach Assistants in a variety of outreach events within Baltimore City library deserts
+   * Coordinated division of labor and skills in large-scale book and resource distribution to our community members
+   * Operated and managed a community computer center offsite
+   * Assisted customers with a variety of needs: resume building, job searches, translations, research, connecting them to library services or city resources
+   * Facilitated English-learning workshops in Spanish
+   * Provided basic literacy support and computer training to adults and children
+   * Built agendas for, and facilitated, virtual children's story times
+   * Conducted community outreach for free library services and community internet access
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Native Spanish speaker; effective Spanish reading and writing skills
+* Experience with digital map making:
+    * ArcGIS
+    * R Studio  
+* Proficient in Google Suites, Microsoft Office
+* Ability to communicate with and teach a wide range of literacy and skill levels
 
-Publications
+
+Additional Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* May 2020 - Aug 2020
+  * Whitelock Commuity Farm, Baltimore, MD
+   * Built beds for rotating crops: tilled soil, weeded soon-to-be beds, added compost to soil, leveled rows for planting, added tarp or wood chips when necessary
+   * Maintained farm plots and greenhouses: Manually weeded, weed-whacked, controlled pests naturally, fed worms, laid wood chips along needed paths, tied-up vines, pulled out old crops
+
+
+* Summer 2019
+  * Soul Fire Farm, Grafton, NY
+   * Participated in Soul Fire’s intensive immersion farm program
+   * Learned to care for seedlings in greenhouse, adjust them for outdoor climate, and transplant them into soil 
