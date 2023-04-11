@@ -1,6 +1,6 @@
 ---
-title: "Testing New Portfolio"
-excerpt: "Copied and pasted from another portfolio's raw file  <br/><img src='/images/Chete1500x300.png'>"
+title: "Antarctica Shaded Relief Map"
+excerpt: "I created a shaded relief map of Antarctica showing its elevation levels, including an ice shelf.  <br/><img src='/images/Ant_Shade_Relief.png'>"
 collection: portfolio
 ---
 
