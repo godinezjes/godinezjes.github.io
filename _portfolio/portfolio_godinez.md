@@ -4,5 +4,5 @@ excerpt: "I created a shaded relief map of Antarctica showing its elevation leve
 collection: portfolio
 ---
 
-This is a shaded relief map showing Antarctica's elevation levels created on ArcPro.
+This is a shaded relief map showing Antarctica's elevation levels created on ArcGIS Pro.
 ![Antarctica Shaded Relief Map](/images/Ant_Shade_Relief.png)
