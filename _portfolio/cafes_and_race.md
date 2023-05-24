@@ -1,6 +1,6 @@
 ---
 title: "Cafes and the White Population in Baltimore City"
-excerpt: "This map shows cafes distributed throughout Baltimore City. They are almost identically aligned with the city's white "L" population.  <br/><img src='/images/BaltCity_Cafes.png'>"
+excerpt: "This map shows cafes distributed throughout Baltimore City. They are almost identically aligned with the city's white L population.  <br/><img src='/images/BaltCity_Cafes.png'>"
 collection: portfolio
 ---
 
