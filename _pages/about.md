@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is jes godinez, I use they/them pronouns, and I am a passionate geographer and environmental enthusiast. I am set to graduate from the University of Maryland, Baltimore County (UMBC) in Spring 2023 with a B.A. in Geography and Environmental Studies, accompanied by a certificate in GIS (Geographic Information Systems).
+Welcome! My name is jes godinez. I am a passionate geographer and environmental enthusiast. I am set to graduate from the University of Maryland, Baltimore County (UMBC) in Spring 2024 with a B.A. in Geography and Environmental Studies, accompanied by a certificate in GIS (Geographic Information Systems).
 
 Throughout my academic journey, I have developed a deep appreciation for understanding the intricate relationship between the Earth's physical and human systems. My coursework has equipped me with a solid foundation in various geospatial technologies and analytical tools. I am experienced in ArcGIS Pro, QGIS, and R Studio, utilizing these platforms to analyze spatial data, create maps, and derive meaningful insights.
 
