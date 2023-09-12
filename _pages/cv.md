@@ -50,7 +50,7 @@ Skills
     * ArcGIS
     * R Studio
     * QGIS
-* Ability to communicate with and teach a wide range of literacy and skill levels
+* Ability to communicate with and teach a wide range of literacy and technical skill levels
 
 
 Additional Experience
