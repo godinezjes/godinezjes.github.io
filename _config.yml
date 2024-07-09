@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+a# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "jes godinez's Portfolio"
 title_separator          : "-"
 name                     : &name "jes godinez"
-description              : &description "Undergraduate majoring in Geography & Environmental Studies at UMBC"
+description              : &description "Geographer & GIS Specialist"
 url                      : https://godinezjes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "godinezjes/godinezjes.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "jes godinez"
   avatar           : "jg_headshot5.jpg"
-  bio              : "UMBC GES Undergrad, GIS novice"
+  bio              : "Geographer & GIS Specialist"
   location         : "Baltimore, MD"
   employer         :
   pubmed           : 
